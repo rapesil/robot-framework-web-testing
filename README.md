@@ -2,9 +2,11 @@
 
 Para rodar esse projeto você precisa ter o python 3 instalado.
 
-Instale também a dependência:
+Instale também as dependências:
 
-> pip install --upgrade robotframework-seleniumlibrary
+
+> pip install robotframework \
+pip install --upgrade robotframework-seleniumlibrary
 
 Para rodar os testes use:
 
